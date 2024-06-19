@@ -1,0 +1,9 @@
+def variables_example():
+    integer_var = 10
+    float_var = 10.5
+    string_var = "Hello"
+    boolean_var = True
+    print(integer_var, float_var, string_var, boolean_var)
+
+if __name__ == "__main__":
+    variables_example()
